@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b49bcc98-4fa9-41b4-a458-fc55dec1b2d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/bootstrap/BootStrapData.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/bootstrap/BootStrapData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/domain/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/domain/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/domain/Publisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/domain/Publisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5app/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring5app/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +92,8 @@
       <updated>1643651869083</updated>
       <workItem from="1643651880182" duration="7604000" />
       <workItem from="1643826723932" duration="634000" />
-      <workItem from="1643916750859" duration="4423000" />
+      <workItem from="1643916750859" duration="6304000" />
+      <workItem from="1644038275518" duration="2387000" />
     </task>
     <servers />
   </component>
