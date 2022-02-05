@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b49bcc98-4fa9-41b4-a458-fc55dec1b2d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/controllers/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/controllers/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/domain/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/domain/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/domain/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring5app/src/main/java/herve/springframework/spring5app/domain/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +75,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\PROGRAMMING\WORKSPACE_JAVA\spring5app\spring5app\src\main\resources\templates\books" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Spring5appApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring5app" />
@@ -92,11 +100,21 @@
       <workItem from="1643651880182" duration="7604000" />
       <workItem from="1643826723932" duration="634000" />
       <workItem from="1643916750859" duration="6304000" />
-      <workItem from="1644038275518" duration="5161000" />
+      <workItem from="1644038275518" duration="9351000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.thymeleaf.exceptions.TemplateInputException" package="org.thymeleaf.exceptions" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
