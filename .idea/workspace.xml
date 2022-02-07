@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b49bcc98-4fa9-41b4-a458-fc55dec1b2d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring5app/src/main/resources/templates/authors/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/spring5app/src/main/resources/templates/authors/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring5app/src/main/resources/templates/books/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/spring5app/src/main/resources/templates/books/list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +98,9 @@
       <workItem from="1643651880182" duration="7604000" />
       <workItem from="1643826723932" duration="634000" />
       <workItem from="1643916750859" duration="6304000" />
-      <workItem from="1644038275518" duration="11052000" />
+      <workItem from="1644038275518" duration="11738000" />
+      <workItem from="1644168019409" duration="1210000" />
+      <workItem from="1644253939638" duration="1197000" />
     </task>
     <servers />
   </component>
