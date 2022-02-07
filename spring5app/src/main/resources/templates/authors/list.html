@@ -8,7 +8,7 @@
     <title>Spring Framework Hervé</title>
 </head>
 <body>
-<h1>Books list</h1>
+<h1>Authors list</h1>
 
 <table>
     <tr>
@@ -16,10 +16,10 @@
         <th>Title</th>
         <th>Publisher</th>
     </tr>
-    <tr th:each="book : ${books}">
-        <td th:text="${book.id}">123</td>
-        <td th:text="${book.title}">Spring in Action</td>
-        <td th:text="${book.publisher.name}">Wrox</td>
+    <tr th:each="author : ${authors}">
+        <td th:text="${author.id}">123</td>
+        <td th:text="${author.firstName}">Hervé</td>
+        <td th:text="${author.lastName}">EVODA</td>
     </tr>
 </table>
 
